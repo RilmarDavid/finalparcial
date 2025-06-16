@@ -39,7 +39,7 @@ function Principal(props)
                 <Routes>
                     <Route path="/" element={<Lapaz></Lapaz>}></Route>
                     <Route path="/pag2" element={<Cocha></Cocha>}></Route>
-                    <Route path="/pag3" element={<Santa></Santa>}></Route>
+                    <Route path="finalparcial/pag3" element={<Santa></Santa>}></Route>
 
 
 
